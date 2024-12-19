@@ -28,7 +28,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/Temperature-Converter.git
+    git clone https://github.com/abhishekboadgurjar/Temperature-Converter.git
     ```
 
 2. **Open the project directory**:
@@ -50,7 +50,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Temperature Converter [here](https://abhishekgurjar-in.github.io/Temperature-Converter/).
+You can check out the live demo of the Temperature Converter [here](https://abhishekboadgurjar.github.io/Temperature-Converter/).
 
 ## Screenshots 
 ![Screenshot 2024-08-18 111029](https://github.com/user-attachments/assets/8b644976-c30d-4235-8d81-8098277aca5a)
@@ -67,5 +67,5 @@ This project was developed as part of my ongoing journey to enhance my web devel
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekgurjar-in)
+  - [GitHub Profile](https://github.com/abhishekboadgurjar)
 
